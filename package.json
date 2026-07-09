@@ -1,0 +1,10 @@
+{
+  "name": "pokemon-react",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./pokemon-app run dev",
+    "build": "npm --prefix ./pokemon-app run build",
+    "lint": "npm --prefix ./pokemon-app run lint",
+    "preview": "npm --prefix ./pokemon-app run preview"
+  }
+}
